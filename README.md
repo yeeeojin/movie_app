@@ -1,4 +1,4 @@
-# https://yeeeojin.github.io/movie_app
+# React Movie App
 
 ## Available Scripts
 
