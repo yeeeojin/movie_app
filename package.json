@@ -30,7 +30,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "http://yeeeojin.github.io/movie_app",
+  "homepage": "https://yeeeojin.github.io/movie_app",
   "devDependencies": {
     "gh-pages": "^2.0.1"
   }
