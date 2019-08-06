@@ -1,4 +1,4 @@
-# http://yeeeojin.github.io/movie_app
+# https://yeeeojin.github.io/movie_app
 
 ## Available Scripts
 
